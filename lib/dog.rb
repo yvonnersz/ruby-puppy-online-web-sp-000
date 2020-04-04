@@ -17,7 +17,6 @@ class Dog
     @@all.each do |dog|
       puts dog
     end
-    dog
   end
 
 end
