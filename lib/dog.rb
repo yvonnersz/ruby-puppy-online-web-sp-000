@@ -24,7 +24,7 @@ class Dog
   end
 
   def self.clear_all
-    @@all = nil
+    @@all.clear
   end
 
 end
